@@ -6,8 +6,8 @@
 
 ### 입출력 예
 
-[4,7,12] : [true,false,true] : 9
-[1,2,3] : [false,false,true] : 0
+[4,7,12] : [true,false,true] =>  9
+[1,2,3] : [false,false,true] =>  0
 
 ### 입출력 예 설명
 입출력 예 #1
